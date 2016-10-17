@@ -5,7 +5,6 @@ package Shuler.Willie.Hurtlocker;
  */
 
 public class Application {
-    private Parser parser = new Parser();
-
+    
     public void run(){}
 }
